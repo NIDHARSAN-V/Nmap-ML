@@ -9,15 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "@react-native-voice/voice": "^3.2.4",
     "expo": "~51.0.22",
     "expo-av": "^14.0.6",
+    "expo-file-system": "~17.0.1",
+    "expo-speech": "^12.0.2",
     "expo-status-bar": "~1.12.1",
     "metro": "^0.80.9",
     "react": "18.2.0",
     "react-native": "0.74.3",
+    "react-native-audio": "^4.3.0",
     "react-native-audio-recorder-player": "^3.6.10",
-    "expo-file-system": "~17.0.1",
-    "@expo/vector-icons": "^14.0.2"
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-voice": "^0.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
